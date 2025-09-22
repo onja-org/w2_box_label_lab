@@ -232,18 +232,6 @@ border-left: 4px double orange;
 5. **Test on different screen sizes** to ensure your spacing works everywhere
 6. **Use browser DevTools** to visualize and debug the box model
 
-## Next Steps
-
-Now that you understand the CSS Box Model theory, you're ready to apply these concepts in practice! In the upcoming lab exercise, you'll:
-
-- Create a User Profile Card component
-- Visually implement each layer of the box model
-- Use different background colors to see how margin, border, padding, and content interact
-- Practice centering and sizing techniques
-- Build a real-world component that demonstrates these concepts
-
-The lab will help you solidify your understanding by making the box model visible and interactive!
-
 ## Additional Resources
 
 - [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
