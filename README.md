@@ -1,4 +1,4 @@
-# CSS Box Model - Box Label Lab 🏷️
+# CSS Box Model - Box Label Lab
 
 ![Box Model Visualization](lab/public/images.png)
 
@@ -6,7 +6,7 @@
 
 Master the **CSS Box Model** through theory and practice. Learn the concepts, then build a "User Profile Card" component that visually demonstrates each layer of the box model.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 w2_box_label_lab/
