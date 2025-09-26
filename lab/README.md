@@ -6,7 +6,7 @@ This task helps you visualize and understand how these layers are stacked and sp
 
 Here a reference image of the box model (imagine this applied to the card's layers):
 
-![alt text](/public/images.png)
+![alt text](public/images.png)
 
 
 ## 🧩 Before You Begin: Fork & Clone
@@ -26,11 +26,11 @@ Clone Your Fork:
 git clone https://github.com/your-username/w2_box_label_lab.git
 ```
 
-Navigate to the project
+Navigate to the project directory
 <!-- end list -->
 
 ```
-cd w2_box_label/
+cd w2_box_label_lab/
 ```
 
 Open the project in your code editor and follow the instructions in this lab.
@@ -98,6 +98,13 @@ Adding custom content helps you:
 Feel free to get creative! This isn’t just about memorizing CSS - it’s about making something functional and appealing!
 
 ## Running the Test (Steps)
+Navigate to the root directory of the project if not already there:
+<!-- end list -->
+
+```
+cd /path/to/w2_box_label_lab
+```
+
 Install dependencies by running:
 <!-- end list -->
 

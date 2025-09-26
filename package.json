@@ -4,7 +4,7 @@
   "description": "In this exercise, you'll create a user profile card component to present layers of the CSS box model: `margin`, `border`, `padding`, and `content`.",
   "main": "test.js",
   "scripts": {
-    "test": "npm install & node test/test-box-label.js"
+    "test": "npm install & cd lab && node test/test-box-label.js"
   },
   "repository": {
     "type": "git",
